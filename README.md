@@ -1,4 +1,8 @@
 # CBAM-from-scratch
+```
+This is a pytorch implementation of CBAM.
+```
+
 CBAM: Convolutional Block Attention Module implementation from scratch with detailed explanation
 
 
