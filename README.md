@@ -1,7 +1,7 @@
-# CBAM-from-scratch
+# CBAM-from-scratch/ CBAM for beginners
 
 ### This is a pytorch implementation of CBAM.
-This is mainly for beginners to know deep about CBAM implementation.
+
 
 CBAM: Convolutional Block Attention Module implementation from scratch with detailed explanation
 
